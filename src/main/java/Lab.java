@@ -8,6 +8,7 @@ public class Lab {
      * @param b the second part of the string to be combined.
      * @return the combination of strings a and b.
      */
+    //resubmitting for commit error
     public String combine(String a, String b){
         return a+b;
     }
